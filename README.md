@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Arush Das  
+#  Hi, I’m Arush Das  
 
-🎓 Undergraduate student at the **University of Maryland (UMD)** majoring in **Computer Engineering** with a strong focus on **AI/ML, data science, and web development**.  
+I'm an undergraduate student at the University of Maryland (UMD) majoring in Computer Engineering with a strong focus on AI/ML, data science, and web development.  
 
-💡 I’m passionate about building projects that combine **machine learning**, **backend systems**, and **data analytics** — and I especially enjoy **integrating APIs** to connect applications with real-world data and services.  
+💡 I’m passionate about building projects that combine machine learning, backend systems, and data analytics — and I especially enjoy integrating APIs to connect applications with real-world data and services.  
 
 ---
 
