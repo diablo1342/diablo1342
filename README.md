@@ -20,11 +20,9 @@ I’m passionate about building projects that combine machine learning, backend 
 
 ---
 
-## GitHub Stats  
+## Most Used Languages  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diablo1342&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diablo1342&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diablo1342&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diablo1342&layout=compact&theme=radical)   
 
 ---
 
