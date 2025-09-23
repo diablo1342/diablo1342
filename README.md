@@ -27,8 +27,8 @@ I’m passionate about building projects that combine machine learning, backend 
 ---
 
 ##  Featured Projects
-- 🏀 [NBA MVP Predictor](https://github.com/diablo1342/NBA-MVP-Predictor) – Machine learning project using LightGBM to predict MVP shares  
-- 🤟 [Sign Language Identifier](https://github.com/diablo1342/SignLanguageIdentifier) – Computer vision with VGG16 for real-time classification  
+- 🎲 [Discord Poker Bot](https://github.com/diablo1342/DiscordPokerBot) – Interactive Texas Hold’em bot for Discord with betting actions, chip stacks, automated hand progression, and UI buttons  
 - 📑 [Teams Transcript Summarizer](https://github.com/diablo1342/TeamsTranscriptSummarizer) – AI-powered meeting transcript summarizer with Graph API + OpenAI  
+
 
 ---
