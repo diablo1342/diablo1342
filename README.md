@@ -28,7 +28,8 @@ I’m passionate about building projects that combine machine learning, backend 
 
 ##  Featured Projects
 - 🎲 [Discord Poker Bot](https://github.com/diablo1342/Discord-Poker-Bot) – Interactive Texas Hold’em bot for Discord with betting actions, chip stacks, automated hand progression, and UI buttons  
-- 📑 [Teams Transcript Summarizer](https://github.com/diablo1342/TeamsTranscriptSummarizer) – AI-powered meeting transcript summarizer with Graph API + OpenAI  
+- 📑 [Teams Transcript Summarizer](https://github.com/diablo1342/TranscriptReader) – Automates Microsoft Teams transcript parsing, generates concise AI-powered summaries, and delivers them via email using Microsoft Graph API  
+
 
 
 
